@@ -63,7 +63,9 @@ PROJECT_ROOT/
 │   └── lib_shield_MF.h
 │   └── lib_timer_0.h
 │   └── lib_ad.h
+│   └── SensorTemp.cpp.h   << A Lógica de programação trabalhando todas as bibliotecas estão aqui
 ├── include/
+│   └── main.cpp
 ├── platformio.ini
 ├── .gitignore
 └── README.md
