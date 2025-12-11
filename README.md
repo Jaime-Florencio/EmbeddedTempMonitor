@@ -39,8 +39,6 @@ CONFIGURAÇÃO → MONITORAMENTO → ALERTA → MONITORAMENTO
    debug_tool = simavr
    monitor_speed = 115200
    ```
-3. Build: `Ctrl + Alt + B`
-4. Upload: `Ctrl + Alt + U`
 
 ## Como o projeto funciona
 - Timer0 incrementa `milliss` via interrupção
