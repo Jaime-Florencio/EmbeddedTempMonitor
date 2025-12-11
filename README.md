@@ -60,16 +60,11 @@ PROJECT_ROOT/
 ├── src/
 │   └── main.cpp
 ├── lib/
-│   ├── lib_default/
-│   │   └── lib_default.h
-│   ├── lib_pinMap_Mega/
-│   │   └── lib_pinMap_Mega.h
-│   ├── lib_shield_MF/
-│   │   └── lib_shield_MF.h
-│   ├── lib_timer_0/
-│   │   └── lib_timer_0.h
-│   ├── lib_ad/
-│   │   └── lib_ad.h
+│   └── lib_default.h
+│   └── lib_pinMap_Mega.h
+│   └── lib_shield_MF.h
+│   └── lib_timer_0.h
+│   └── lib_ad.h
 ├── include/
 ├── platformio.ini
 ├── .gitignore
