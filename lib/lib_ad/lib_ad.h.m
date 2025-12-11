@@ -29,3 +29,4 @@ void setupConversorAD() {
     configPinInput(ANALOG0);
     bitClear(PRR0,PRADC);     // liga a energia do módulo do conversor AD
 }
+
